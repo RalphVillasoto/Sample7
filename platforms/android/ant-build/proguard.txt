@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.JBLFMU_MOLO.app.Sample7 { <init>(...); }
+
